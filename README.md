@@ -2,6 +2,8 @@
 
 A quadraphonic sonic installation system.
 
+![image](./res/installation_context.png)
+
 ### About
 
 This project includes the code and image associated with my ping train project created 
